@@ -1,4 +1,4 @@
-﻿Shader "Arusu/StarShader"
+﻿Shader "EM_Shader/StarShader"
 {
 	Properties
 	{
